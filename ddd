@@ -1,0 +1,59 @@
+[33mcommit 73ef6ba064ba1cdb65a4bd24df9eb185b20f946c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: suwencheng <a745884449@qq.com>
+Date:   Mon Apr 23 17:06:24 2018 +0800
+
+    branch test
+
+[33mcommit 157a8df580a4f58fcf35d8946ae76318df80ca67[m
+Author: suwencheng <a745884449@qq.com>
+Date:   Sun Apr 15 11:05:38 2018 +0800
+
+    remove tiny-spring from learngit
+
+[33mcommit 132158b871981334eda5d04c35adcd7155db95db[m
+Author: suwencheng <a745884449@qq.com>
+Date:   Sun Apr 15 10:59:20 2018 +0800
+
+    add tiny-spring
+
+[33mcommit b91f46d70fbbc30f3019fabd9699cec396d0bdb5[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: suwencheng <a745884449@qq.com>
+Date:   Sat Apr 14 11:09:41 2018 +0800
+
+    add test.txt
+
+[33mcommit c7d56f9069060375c4d84b15cfeea7f2d97ac37f[m
+Author: suwencheng <a745884449@qq.com>
+Date:   Thu Apr 12 14:51:32 2018 +0800
+
+    of files
+
+[33mcommit 94fd316a6a41ba2eee4e972559ab761c69a1f583[m
+Author: suwencheng <a745884449@qq.com>
+Date:   Thu Apr 12 14:45:21 2018 +0800
+
+    git tracks changes
+
+[33mcommit 05a4c754d4b5cc74cff64716b5b4d537d904f142[m
+Author: suwencheng <a745884449@qq.com>
+Date:   Thu Apr 12 14:40:11 2018 +0800
+
+    understand how stage works
+
+[33mcommit d72183452d04c1857c67c173281e6251041dd586[m
+Author: suwencheng <a745884449@qq.com>
+Date:   Thu Apr 12 10:47:57 2018 +0800
+
+    append GPL
+
+[33mcommit eaa72b46635621fe4d27e007afc949d56d1df0f3[m
+Author: suwencheng <a745884449@qq.com>
+Date:   Thu Apr 12 10:13:49 2018 +0800
+
+    add distributed
+
+[33mcommit 67d1a515a0cbd23cc270be971190823d719778a6[m
+Author: suwencheng <a745884449@qq.com>
+Date:   Thu Apr 12 09:59:10 2018 +0800
+
+    worte a readme file
